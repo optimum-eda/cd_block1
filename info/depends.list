@@ -6,7 +6,7 @@
 #           if not top block , this line ignored
 # -filter - 
 #------------------------------------------------------
-cd_block2 main
+cd_block2 origin/main
 #cd_block2 e211084
 #cd_block3 840b897
 #cd_block3 main
